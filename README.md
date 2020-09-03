@@ -25,3 +25,8 @@ $ make -j8 flash
 
 HAGL is hardware agnostic. You can run the demos also [on your computer](https://github.com/tuupola/sdl2_effects).
 
+# Note: Changes in this fork.
+
+1. Added "CMakeLists.txt in root.
+2. Added "CMakeLists.txt in main, specifying the source files.
+3. set git branch for components "hagl" and "hagl_esp_mipi" to branch "master".
