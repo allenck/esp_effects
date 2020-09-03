@@ -1,4 +1,5 @@
 ## Old schoold demo effects for ESP32
+This is a port of the original [esp_effects](https://github.com/tuupola/esp_effects) to use esp-idf ver 4.1 and CMake.
 
 ![ESP effects](https://appelsiini.net/img/2020/esp-effects.jpg)
 
